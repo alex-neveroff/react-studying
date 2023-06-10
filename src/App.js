@@ -2,6 +2,10 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
+
+const arr = [10, 20, 30];
+let undefined ="undefined";
+console.log(undefined);
   return (
     <div className="App">
       <header className="App-header">
